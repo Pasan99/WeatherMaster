@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B2:D3:C5:3A:0C:BF:A1:D5:EC:A3:F6:C7:0F:31:C9:E8:94:09:2C:D0%3Bcom.triangle.weathermaster
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.triangle.weathermaster
+
+    SHA-1 certificate fingerprint:
+    B2:D3:C5:3A:0C:BF:A1:D5:EC:A3:F6:C7:0F:31:C9:E8:94:09:2C:D0
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAX4vZtVdgOkb7lPsex1S3SZ0-_k0Yjyy4</string>
+</resources>
